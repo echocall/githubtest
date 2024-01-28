@@ -4,3 +4,5 @@ line 3.
 Conflict intentionally!
 Conflict 1
 <- I resolved the conflicts. 
+
+I contribute!

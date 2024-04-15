@@ -6,3 +6,4 @@ Conflict 1
 <- I resolved the conflicts. 
 
 I contribute!
+I contribute too!
